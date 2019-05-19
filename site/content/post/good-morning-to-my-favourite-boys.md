@@ -5,3 +5,9 @@ description: You are doing such great learning and work on Anne's website/logo/d
 image: /img/products-grid2.jpg
 ---
 Don't forget to take a **break** _(have a kitkat!!)_
+
+_Or a cup of joe_ 
+
+![A cup of coffe](/img/android-chrome-192x192.png "Hover text. Hi Joe (does not show up!)")
+
+Have a nice day!
