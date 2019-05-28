@@ -13,10 +13,10 @@ this is easy to make a new post.
 
 \***\*[**bold**](testing.com)\*\***
 
-[**_lol_**](youtube.com)
+[_**lol**_](youtube.com)
 
 [okay](https://youtube.com)
 
-**__**[**_thest_**](htere.com)**__**
+**__**[_**thest**_](htere.com)**__**
 
-![](/img/about-jumbotron.jpg)
+![](/img/screenshot-39-.png)
